@@ -67,6 +67,7 @@ a set of rules that precisely define a sequence of operations.
     * `B` [[S/W 문제해결 기본] 3일차 - String](https://github.com/skylee273/Algorithm/tree/master/SW1213)
     * `B` [[S/W 문제해결 기본] 3일차 - 회문1★★★](https://github.com/skylee273/Algorithm/tree/master/SW1215)
     * `B` [[S/W 문제해결 기본] 3일차 - 회문2★★★](https://github.com/skylee273/Algorithm/tree/master/SW1216)
+    * `B` [[백준] 문자열 - 11654](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11654.java)
 
 ## Data Structures
 
