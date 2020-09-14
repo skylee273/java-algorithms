@@ -17,6 +17,34 @@ The current algorithm study is summarized.
     * `B` [[프로그래머스] - 같은 숫자는 싫어](https://github.com/skylee273/Algorithm/tree/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EA%B0%99%EC%9D%80%EC%88%AB%EC%9E%90%EB%8A%94%EC%8B%AB%EC%96%B4)
     * `B` [[프로그래머스] - 나누어 떨어지는 숫자 배열](https://github.com/skylee273/Algorithm/tree/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EB%82%98%EB%88%84%EC%96%B4%20%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%20%EC%88%AB%EC%9E%90%EB%B0%B0%EC%97%B4)
     * `B` [[프로그래머스] - 두 정수 사이의 합](https://github.com/skylee273/Algorithm/tree/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EB%91%90%EC%A0%95%EC%88%98%EC%82%AC%EC%9D%B4%EC%9D%98%ED%95%A9_Lv1)
+* **Input&Output** - 
+    * `B` [[백준] - 1000 A+B](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1000.java)
+    * `B` [[백준] - 2557 Hello World](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2557.java)
+    * `B` [[백준] - 10950 A+B](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10950.java)
+    * `B` [[백준] - 10951 A+B - 4](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10951.java)
+    * `B` [[백준] - 10952 A+B - 5](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10952.java)
+    * `B` [[백준] - 10953 A+B - 6](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10953.java)
+    * `B` [[백준] - 11021 A+B - 7](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11021.java)
+    * `B` [[백준] - 11718 그대로 출력하기](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11718.java)
+    * `B` [[백준] - 11719 그대로 출력하기 2](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11719.java)
+    * `B` [[백준] - 11720 숫자의 합](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11720.java)
+    * `B` [[백준] - 11721 열 개씩 끊어 출력하기](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11721.java)
+    * `B` [[백준] - 2741 N 찍기](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2741.java)
+    * `B` [[백준] - 2742 기찍 N](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2742.java)
+    * `B` [[백준] - 2739 구구단](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2739.java)
+    * `B` [[백준] - 1924 2007년](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1924.java)
+    * `B` [[백준] - 8393 합](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_8393.java)
+    * `B` [[백준] - 10818 최소, 최대](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10818.java)
+    * `B` [[백준] - 2438 별 찍기 - 1](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2438.java)
+    * `B` [[백준] - 2439 별 찍기 - 2](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2439.java)
+    * `B` [[백준] - 2440 별 찍기 - 3](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2440.java)
+    * `B` [[백준] - 2441 별 찍기 - 4](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2441.java)
+    * `B` [[백준] - 2442 별 찍기 - 5](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2442.java)
+    * `B` [[백준] - 2445 별 찍기 - 8](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2445.java)
+
+
+    
+    
 
 
 ## Algorithms
@@ -134,6 +162,8 @@ algorithm is an abstraction higher than a computer program.
     * [[S/W 코드배틀] 95 - 석찬이의 받아쓰기](https://github.com/skylee273/Algorithm/tree/master/Battle95_1)
     * [[S/W 코드배틀] 95 - 배열의 분할 ](https://github.com/skylee273/Algorithm/tree/master/Battle95_2)
 
+### CodeInterView
+* **2020 Toss CodingInterView**
 
 
 ### Shortcut
@@ -148,3 +178,53 @@ algorithm is an abstraction higher than a computer program.
     * [ CTRL + ; ] - 솔루션 탐색기 이동
     * [ CTRL + j ] - 자동 완성
 
+### PS Order
+ * **Input & OutPut**
+    * 2557, 1000, 2558, 10950, 10951, 10952, 10953, 11021, 11022, 11718, 11719, 11720, 11721, 2741, 2742, 2739, 1924, 8393, 10818, 2438, 2439, 2440, 2441, 2442, 2445, 2522, 2446, 10991, 10992
+
+## Useful Information
+### String Tokenizer 
+
+*StringTokenizer* 클래스는 문자열을 개별적인 토큰으로 분리하는 방법을 제공한다.
+
+| Constructor | Description 
+| -------------- | ---------------------------- | ----------------------------- | ------------------------------- |
+| **StringTokenizer(String str)**       | 문자열을 기본적인 구별자("\t\n\r")를 이용해서 토큰을 구별하기 위한 생성자이다.
+| **StringTokenizer(String str, String delim)**   | 문자열 str을 구별자(delim)를 이용해서 토큰을 구별하기 위한 생성자이다.
+| **StringTokenizer(String str, String delim, boolean returnDelims)**       | 문자열 str을 구별자(delim)을 이용해서 토큰을 구별하고, 구별자를 토큰과 마찬가지로 nextToken() 메소드에서 리턴할 것인지 여부를 returnToken 값으로 기술하는 생성자이다.
+
+| Method | Description 
+| -------------- | ---------------------------- | ----------------------------- | ------------------------------- |
+| **boolean hasMoreTokens()**       | 토큰이 더이상 있는지 여부 확인
+| **String nextToken()**   | 다음 토큰 리턴
+| **String nextTonken(String delim)**       | 새로운 구별자를 이용해서 다음 토큰을 리턴
+
+
+### Data Structure Operations Complexity
+
+| Data Structure          | Access    | Search    | Insertion | Deletion  | Comments  |
+| ----------------------- | :-------: | :-------: | :-------: | :-------: | :-------- |
+| **Array**               | 1         | n         | n         | n         |           |
+| **Stack**               | n         | n         | 1         | 1         |           |
+| **Queue**               | n         | n         | 1         | 1         |           |
+| **Linked List**         | n         | n         | 1         | n         |           |
+| **Hash Table**          | -         | n         | n         | n         | In case of perfect hash function costs would be O(1) |
+| **Binary Search Tree**  | n         | n         | n         | n         | In case of balanced tree costs would be O(log(n)) |
+| **B-Tree**              | log(n)    | log(n)    | log(n)    | log(n)    |           |
+| **Red-Black Tree**      | log(n)    | log(n)    | log(n)    | log(n)    |           |
+| **AVL Tree**            | log(n)    | log(n)    | log(n)    | log(n)    |           |
+| **Bloom Filter**        | -         | 1         | 1         | -         | False positives are possible while searching |
+
+### Array Sorting Algorithms Complexity
+
+| Name                  | Best            | Average             | Worst               | Memory    | Stable    | Comments  |
+| --------------------- | :-------------: | :-----------------: | :-----------------: | :-------: | :-------: | :-------- |
+| **Bubble sort**       | n               | n<sup>2</sup>       | n<sup>2</sup>       | 1         | Yes       |           |
+| **Insertion sort**    | n               | n<sup>2</sup>       | n<sup>2</sup>       | 1         | Yes       |           |
+| **Selection sort**    | n<sup>2</sup>   | n<sup>2</sup>       | n<sup>2</sup>       | 1         | No        |           |
+| **Heap sort**         | n&nbsp;log(n)   | n&nbsp;log(n)       | n&nbsp;log(n)       | 1         | No        |           |
+| **Merge sort**        | n&nbsp;log(n)   | n&nbsp;log(n)       | n&nbsp;log(n)       | n         | Yes       |           |
+| **Quick sort**        | n&nbsp;log(n)   | n&nbsp;log(n)       | n<sup>2</sup>       | log(n)    | No        | Quicksort is usually done in-place with O(log(n)) stack space |
+| **Shell sort**        | n&nbsp;log(n)   | depends on gap sequence   | n&nbsp;(log(n))<sup>2</sup>  | 1         | No         |           |
+| **Counting sort**     | n + r           | n + r               | n + r               | n + r     | Yes       | r - biggest number in array |
+| **Radix sort**        | n * k           | n * k               | n * k               | n + k     | Yes       | k - length of longest key |
