@@ -148,6 +148,7 @@ algorithm is an abstraction higher than a computer program.
     * `B` [[백준] - 11727 2×n 타일링](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11727.java)
     * `B` [[백준] - 9095 1, 2, 3 더하기](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_9095.java)
     * `R` [[백준] - 10844 쉬운 계단 수](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10844.java)
+    * `R` [[백준] - 10844 쉬운 계단 수](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10844.java)
    
 
 ### Algorithm Problem Solving Strategies
