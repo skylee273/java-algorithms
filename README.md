@@ -148,8 +148,13 @@ algorithm is an abstraction higher than a computer program.
     * `B` [[백준] - 11727 2×n 타일링](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11727.java)
     * `B` [[백준] - 9095 1, 2, 3 더하기](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_9095.java)
     * `R` [[백준] - 10844 쉬운 계단 수](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10844.java)
-    * `R` [[백준] - 10844 쉬운 계단 수](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10844.java)
-   
+    * `R` [[백준] - 11057 오르막 수](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11057.java)
+    * `B` [[백준] - 2193 이친수](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2193.java)
+    * `R` [[백준] - 9465 스티커](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_9465.java)
+    * `R` [[백준] - 2156 포도주 시식](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2156.java)
+    * `R` [[백준] - 11053 가장 긴 증가하는 부분 수열 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11053.java)
+    * `B` [[백준] - 11055 가장 큰 증가 부분 수열](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11055.java)
+    * `B` [[백준] - 11722 가장 긴 감소하는 부분 수열](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11722.java)
 
 ### Algorithm Problem Solving Strategies
 
