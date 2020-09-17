@@ -155,6 +155,8 @@ algorithm is an abstraction higher than a computer program.
     * `R` [[백준] - 11053 가장 긴 증가하는 부분 수열 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11053.java)
     * `B` [[백준] - 11055 가장 큰 증가 부분 수열](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11055.java)
     * `B` [[백준] - 11722 가장 긴 감소하는 부분 수열](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11722.java)
+    * `B` [[백준] - 11054 가장 긴 바이토닉 부분 수열](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11054.java)
+    * `B` [[백준] - 1912 연속합](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1912.java)
 
 ### Algorithm Problem Solving Strategies
 
