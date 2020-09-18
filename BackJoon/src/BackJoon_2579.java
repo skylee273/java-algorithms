@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class BackJoon_2589 {
+public class BackJoon_2579 {
 
 	static int n;
 	static int[] arr;
