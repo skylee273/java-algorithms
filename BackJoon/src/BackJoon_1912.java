@@ -31,5 +31,4 @@ public class BackJoon_1912 {
 		}
 		System.out.print(max);
 	}
-
 }
