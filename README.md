@@ -130,7 +130,7 @@ the data.
     * [[S/W 문제해결 기본] 8일차 - 암호문2](https://github.com/skylee273/Algorithm/tree/master/SW1229)
     * [[S/W 문제해결 기본] 8일차 - 암호문3](https://github.com/skylee273/Algorithm/tree/master/SW1230)
 
-### Algorithms by Paradigm
+## Algorithms by Paradigm
 An algorithmic paradigm is a generic method or approach which underlies the design of a class
 of algorithms. It is an abstraction higher than the notion of an algorithm, just as an
 algorithm is an abstraction higher than a computer program.
@@ -157,8 +157,12 @@ algorithm is an abstraction higher than a computer program.
     * `B` [[백준] - 11722 가장 긴 감소하는 부분 수열](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11722.java)
     * `B` [[백준] - 11054 가장 긴 바이토닉 부분 수열](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11054.java)
     * `B` [[백준] - 1912 연속합](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1912.java)
+    * `B` [[백준] - 1699 제곱수의 합](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1699.java)
+    * `B` [[백준] - 2133 타일 채우기](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2133.java)
+    * `B` [[백준] - 9461 파도반 수열](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_9461.java)
+    * `B` [[백준] - 2579 계단 오르기](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2579.java)
 
-### Algorithm Problem Solving Strategies
+## Algorithm Problem Solving Strategies
 
 * **Brute Force** - 가능한 경우의 수를 일일이 나열하면서 답을 찾는 방법을 의미 한다. 흔히 완전 탐색(exhaustive search) 라고 부른다.
     * `B` - Beginner, `I` - Intermediate, `A` - Advanced
@@ -175,16 +179,16 @@ algorithm is an abstraction higher than a computer program.
     * `B` - Beginner, `I` - Intermediate, `A` - Advanced
     * `B` [[APSS] 코드 6.2 - 조합](https://github.com/skylee273/Algorithm/tree/master/Apss_6.2)
 
-### Contests
+## Contests
 * **S/W CodeBattle**
     * [[S/W 코드배틀] 95 - 석찬이의 받아쓰기](https://github.com/skylee273/Algorithm/tree/master/Battle95_1)
     * [[S/W 코드배틀] 95 - 배열의 분할 ](https://github.com/skylee273/Algorithm/tree/master/Battle95_2)
 
-### CodeInterView
+## CodeInterView
 * **2020 Toss CodingInterView**
 
 
-### Shortcut
+## Shortcut
 * **VisualStudio 2015 C++**
     * [ CTRL + K + C ] - 선택한 블럭을 전부 코멘트
     * [ CTRL + K + U ] - 선택한 블럭을 전부 언 코멘트 
@@ -196,7 +200,7 @@ algorithm is an abstraction higher than a computer program.
     * [ CTRL + ; ] - 솔루션 탐색기 이동
     * [ CTRL + j ] - 자동 완성
 
-### PS Order
+## PS Order
  * **Input & OutPut**
     * [2557](https://www.acmicpc.net/problem/2557),[1000](https://www.acmicpc.net/problem/1000),[2558](https://github.com/skylee273/Algorithm/tree/master/Battle95_2),[10950](https://www.acmicpc.net/problem/10950),[10951](https://www.acmicpc.net/problem/10951),[10952](https://www.acmicpc.net/problem/10952),[10953](https://www.acmicpc.net/problem/10953),[11021](https://www.acmicpc.net/problem/11021),[11022](https://www.acmicpc.net/problem/11022),[11718](https://www.acmicpc.net/problem/11718),[11719](https://www.acmicpc.net/problem/11719),[11720](https://www.acmicpc.net/problem/11720),[11721](https://www.acmicpc.net/problem/11721),[2741](https://www.acmicpc.net/problem/2741),[2742](https://www.acmicpc.net/problem/2742),[2739](https://www.acmicpc.net/problem/2739),[1924](https://www.acmicpc.net/problem/1924),[8393](https://www.acmicpc.net/problem/8393),[10818](https://www.acmicpc.net/problem/10818),[2438](https://www.acmicpc.net/problem/2438),[2439](https://www.acmicpc.net/problem/2439),[2440](https://www.acmicpc.net/problem/2440),[2441](https://www.acmicpc.net/problem/2441),[2442](https://www.acmicpc.net/problem/2442),[2445](https://www.acmicpc.net/problem/2445),[2522](https://www.acmicpc.net/problem/2522),[2446](https://www.acmicpc.net/problem/2446),[10991](https://www.acmicpc.net/problem/10991),[10992](https://www.acmicpc.net/problem/10992)
 * **Dynamic Programming**
