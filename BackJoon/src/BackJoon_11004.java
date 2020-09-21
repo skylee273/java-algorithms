@@ -21,11 +21,11 @@ public class BackJoon_11004 {
 			arr[i] = Integer.parseInt(st.nextToken());
 		}
 		quickSort(0, n - 1);
-		System.out.print(arr[k-1]);
+		System.out.print(arr[k - 1]);
 	}
 
 	private static void quickSort(int low, int high) {
-		if(low >= high)
+		if (low >= high)
 			return;
 		int left = low;
 		int right = high;
@@ -52,4 +52,5 @@ public class BackJoon_11004 {
 		arr[l] = arr[r];
 		arr[r] = temp;
 	}
+	
 }

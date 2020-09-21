@@ -125,6 +125,8 @@ the data.
     * `B` [[S/W 문제해결 기본] 6일차 - 계산기1](https://github.com/skylee273/Algorithm/tree/master/SW1222)
     * `B` [[S/W 문제해결 기본] 6일차 - 계산기2](https://github.com/skylee273/Algorithm/tree/master/SW1223)
     * `B` [[S/W 문제해결 기본] 6일차 - 계산기3](https://github.com/skylee273/Algorithm/tree/master/SW1224)
+    * `B` [[백준] - 10828 스택](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10828.java)
+
 * **Queue** - 
     * `B` [[S/W 문제해결 기본] 7일차 - 암호생성기](https://github.com/skylee273/Algorithm/tree/master/SW1225)
     * `B` [[S/W 문제해결 기본] 7일차 - 미로1](https://github.com/skylee273/Algorithm/tree/master/SW1226(BFS))
