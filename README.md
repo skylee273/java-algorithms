@@ -97,6 +97,7 @@ a set of rules that precisely define a sequence of operations.
     * `B` [[백준] - 10825 국영수 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10825.java)
     * `B` [[백준] - 10989 수 정렬하기 3](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10989.java)
     * `R` [[백준] - 11652 카드](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11652.java)
+    * `R` [[백준] - 11004 K번째 수](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11004.java)
 
 * **String** -
     * `B` [[S/W 문제해결 문자열 구현] - Kmp, BoyerMoore, BruteForce](https://github.com/skylee273/Algorithm/tree/master/String)
