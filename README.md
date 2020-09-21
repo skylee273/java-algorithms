@@ -90,6 +90,13 @@ a set of rules that precisely define a sequence of operations.
     * `B` [[S/W 문제해결 정렬 구현] - Quick, Selection, Bubble, Counting](https://github.com/skylee273/Algorithm/tree/master/Sort)
     * `B` [[백준] - 수 정렬하기 2](https://github.com/skylee273/Algorithm/tree/master/BackJoon_2715)
     * `B` [[프로그래머스] - K번째수](https://github.com/skylee273/Algorithm/tree/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_K%EB%B2%88%EC%A7%B8%EC%88%98_%EC%A0%95%EB%A0%AC_Lv1)
+    * `B` [[백준] - 2751 수 정렬하기 2(Java)](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2751.java)
+    * `B` [[백준] - 11650 좌표 정렬하기](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11650.java)
+    * `B` [[백준] - 11651 좌표 정렬하기 2](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11651.java)
+    * `B` [[백준] - 10814 나이순 정렬](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10814.java)
+    * `B` [[백준] - 10825 국영수 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10825.java)
+    * `B` [[백준] - 10989 수 정렬하기 3](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10989.java)
+    * `R` [[백준] - 11652 카드](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11652.java)
 
 * **String** -
     * `B` [[S/W 문제해결 문자열 구현] - Kmp, BoyerMoore, BruteForce](https://github.com/skylee273/Algorithm/tree/master/String)
@@ -157,10 +164,11 @@ algorithm is an abstraction higher than a computer program.
     * `B` [[백준] - 11722 가장 긴 감소하는 부분 수열](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11722.java)
     * `B` [[백준] - 11054 가장 긴 바이토닉 부분 수열](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11054.java)
     * `B` [[백준] - 1912 연속합](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1912.java)
-    * `B` [[백준] - 1699 제곱수의 합](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1699.java)
-    * `B` [[백준] - 2133 타일 채우기](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2133.java)
+    * `R` [[백준] - 1699 제곱수의 합](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1699.java)
+    * `R` [[백준] - 2133 타일 채우기](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2133.java)
     * `B` [[백준] - 9461 파도반 수열](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_9461.java)
-    * `B` [[백준] - 2579 계단 오르기](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2579.java)
+    * `R` [[백준] - 2579 계단 오르기](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2579.java)
+    * `R` [[백준] - 2225 합분해](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2225.java)
 
 ## Algorithm Problem Solving Strategies
 
