@@ -105,6 +105,15 @@ a set of rules that precisely define a sequence of operations.
     * `B` [[S/W 문제해결 기본] 3일차 - 회문1★★★](https://github.com/skylee273/Algorithm/tree/master/SW1215)
     * `B` [[S/W 문제해결 기본] 3일차 - 회문2★★★](https://github.com/skylee273/Algorithm/tree/master/SW1216)
     * `B` [[백준] 문자열 - 11654](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11654.java)
+    * `B` [[백준] - 10808 알파벳 개수](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10808.java)
+    * `B` [[백준] - 10809 알파벳 찾기](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10809.java)
+    * `B` [[백준] - 10820 문자열 분석](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10820.java)
+    * `B` [[백준] - 10824 네 수](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10824.java)
+    * `B` [[백준] - 11655 ROT13](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11655.java)
+    * `B` [[백준] - 2743 단어 길이 재기](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2743.java)
+    
+
+
 
 ## Data Structures
 
@@ -126,11 +135,16 @@ the data.
     * `B` [[S/W 문제해결 기본] 6일차 - 계산기2](https://github.com/skylee273/Algorithm/tree/master/SW1223)
     * `B` [[S/W 문제해결 기본] 6일차 - 계산기3](https://github.com/skylee273/Algorithm/tree/master/SW1224)
     * `B` [[백준] - 10828 스택](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10828.java)
+    * `B` [[백준] - 10799 쇠막대기](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10799.java)
+    * `B` [[백준] - 9012 괄호](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_9012.java)
 
 * **Queue** - 
     * `B` [[S/W 문제해결 기본] 7일차 - 암호생성기](https://github.com/skylee273/Algorithm/tree/master/SW1225)
     * `B` [[S/W 문제해결 기본] 7일차 - 미로1](https://github.com/skylee273/Algorithm/tree/master/SW1226(BFS))
     * `B` [[S/W 문제해결 기본] 7일차 - 미로2](https://github.com/skylee273/Algorithm/tree/master/SW1227(BFS))
+    * `B` [[백준] - 10845 큐](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10845.java)
+    * `B` [[백준] - 10866 덱 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10866.java)
+
 
 * **Hash** -
     * [[프로그래머스] - 완주하지 못한 선수](https://github.com/skylee273/Algorithm/tree/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98)
