@@ -13,10 +13,16 @@ The current algorithm study is summarized.
     * `B` [[S/W 기본문제] - 스탬프 찍기](https://github.com/skylee273/Algorithm/tree/master/SW2046)
     * `B` [[S/W 문제해결 응용] 1일차 - 단순 2진 암호코드 ★★★](https://github.com/skylee273/Algorithm/tree/master/SW1240)
     * `B` [[백준] - 손익분기점](https://github.com/skylee273/Algorithm/tree/master/BackJoon_1712)
+    * `B` [[백준] - 11005 진법 변환 2](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11005.java)
+    * `R` [[백준] - 1168 요세푸스 문제 2](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1168.java)
+
+    
+
     * `B` [[프로그래머스] - 가운데 글자 가져오기](https://github.com/skylee273/Algorithm/tree/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EA%B0%80%EC%9A%B4%EB%8D%B0%EA%B8%80%EC%9E%90%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0_%20Lv1)
     * `B` [[프로그래머스] - 같은 숫자는 싫어](https://github.com/skylee273/Algorithm/tree/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EA%B0%99%EC%9D%80%EC%88%AB%EC%9E%90%EB%8A%94%EC%8B%AB%EC%96%B4)
     * `B` [[프로그래머스] - 나누어 떨어지는 숫자 배열](https://github.com/skylee273/Algorithm/tree/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EB%82%98%EB%88%84%EC%96%B4%20%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%20%EC%88%AB%EC%9E%90%EB%B0%B0%EC%97%B4)
     * `B` [[프로그래머스] - 두 정수 사이의 합](https://github.com/skylee273/Algorithm/tree/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EB%91%90%EC%A0%95%EC%88%98%EC%82%AC%EC%9D%B4%EC%9D%98%ED%95%A9_Lv1)
+    
 * **Input&Output** - 
     * `B` [[백준] - 1000 A+B](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1000.java)
     * `B` [[백준] - 2557 Hello World](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2557.java)
@@ -74,7 +80,14 @@ a set of rules that precisely define a sequence of operations.
 * **Math** -
     * `B` [[백준] - 벌집](https://github.com/skylee273/Algorithm/tree/master/BackJoon_2292)
     * `B` [[백준] - 설탕 배달](https://github.com/skylee273/Algorithm/tree/master/BackJoon_2839)
-
+    * `B` [[백준] - 10430 나머지](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10430.java)
+    * `R` [[백준] - 1373 2진수 8진수](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1373.java)
+    * `R` [[백준] - 1850 최대공약수](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1850.java)
+    * `B` [[백준] - 1934 최소공배수](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1934.java)
+    * `B` [[백준] - 2609 최대공약수와 최소공배수](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2609.java)
+    * `B` [[백준] - 2745 진법 변환](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2745.java)
+    * `R` [[백준] - 9613 GCD 합](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_9613.java)
+     
 * **Tree** -
     * `B` [[S/W 문제해결 기본] 9일차 - 트리구현](https://github.com/skylee273/Algorithm/tree/master/Tree)
     * `B` [[S/W 문제해결 기본] 9일차 - 중위순회 ★](https://github.com/skylee273/Algorithm/tree/master/SW1231)
@@ -98,6 +111,7 @@ a set of rules that precisely define a sequence of operations.
     * `B` [[백준] - 10989 수 정렬하기 3](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10989.java)
     * `R` [[백준] - 11652 카드](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11652.java)
     * `R` [[백준] - 11004 K번째 수](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11004.java)
+    * `B` [[백준] - 11656 접미사 배열](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1158.java)
 
 * **String** -
     * `B` [[S/W 문제해결 문자열 구현] - Kmp, BoyerMoore, BruteForce](https://github.com/skylee273/Algorithm/tree/master/String)
@@ -137,6 +151,7 @@ the data.
     * `B` [[백준] - 10828 스택](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10828.java)
     * `B` [[백준] - 10799 쇠막대기](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10799.java)
     * `B` [[백준] - 9012 괄호](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_9012.java)
+    * `R` [[백준] - 1406 에디터](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1406.java)
 
 * **Queue** - 
     * `B` [[S/W 문제해결 기본] 7일차 - 암호생성기](https://github.com/skylee273/Algorithm/tree/master/SW1225)
@@ -144,7 +159,8 @@ the data.
     * `B` [[S/W 문제해결 기본] 7일차 - 미로2](https://github.com/skylee273/Algorithm/tree/master/SW1227(BFS))
     * `B` [[백준] - 10845 큐](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10845.java)
     * `B` [[백준] - 10866 덱 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10866.java)
-
+    * `R` [[백준] - 1158 요세푸스 문제](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1158.java)
+    
 
 * **Hash** -
     * [[프로그래머스] - 완주하지 못한 선수](https://github.com/skylee273/Algorithm/tree/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98)
