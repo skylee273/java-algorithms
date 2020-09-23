@@ -335,7 +335,74 @@ algorithm is an abstraction higher than a computer program.
     [11653](https://www.acmicpc.net/problem/11653),
     [10872](https://www.acmicpc.net/problem/10872),
     [1676](https://www.acmicpc.net/problem/1676),
-    [2004](https://www.acmicpc.net/problem/2004),
+    [2004](https://www.acmicpc.net/problem/2004)
+
+* **Graph**
+    * [1260](https://www.acmicpc.net/problem/1260),
+    [11724](https://www.acmicpc.net/problem/11724), 
+    [1707](https://www.acmicpc.net/problem/1707), 
+    [10451](https://www.acmicpc.net/problem/10451),
+    [2331](https://www.acmicpc.net/problem/2331), 
+    [9466](https://www.acmicpc.net/problem/9466), 
+    [2667](https://www.acmicpc.net/problem/2667),
+    [4963](https://www.acmicpc.net/problem/4963),
+    [7576](https://www.acmicpc.net/problem/7576),
+    [2178](https://www.acmicpc.net/problem/2178), 
+    [2146](https://www.acmicpc.net/problem/2146), 
+    [1991](https://www.acmicpc.net/problem/1991), 
+    [11725](https://www.acmicpc.net/problem/11725), 
+    [1167](https://www.acmicpc.net/problem/1167),
+    [1967](https://www.acmicpc.net/problem/1967)
+
+* **Divide conquer**
+    * [11728](https://www.acmicpc.net/problem/11728),
+    [1780](https://www.acmicpc.net/problem/1780), 
+    [11729](https://www.acmicpc.net/problem/11729), 
+    [1992](https://www.acmicpc.net/problem/1992),
+    [2447](https://www.acmicpc.net/problem/2447), 
+    [2448](https://www.acmicpc.net/problem/2448), 
+    [1517](https://www.acmicpc.net/problem/1517),
+    [2261](https://www.acmicpc.net/problem/2261)
+
+* **Greedy**
+    * [11047](https://www.acmicpc.net/problem/11047),
+    [2875](https://www.acmicpc.net/problem/2875), 
+    [10610](https://www.acmicpc.net/problem/10610), 
+    [1783](https://www.acmicpc.net/problem/1783),
+    [1931](https://www.acmicpc.net/problem/1931), 
+    [11399](https://www.acmicpc.net/problem/11399), 
+    [2873](https://www.acmicpc.net/problem/2873),
+    [1744](https://www.acmicpc.net/problem/1744)
+
+* **Brute Force**
+    * [1476](https://www.acmicpc.net/problem/11047),
+    [1107](https://www.acmicpc.net/problem/2875),
+    [1451](https://www.acmicpc.net/problem/10610),
+    [9095](https://www.acmicpc.net/problem/1783),
+    [10819](https://www.acmicpc.net/problem/1931),
+    [10971](https://www.acmicpc.net/problem/11399),
+    [1697](https://www.acmicpc.net/problem/2873),
+    [1963](https://www.acmicpc.net/problem/1744),
+    [9019](https://www.acmicpc.net/problem/2875),
+    [1525](https://www.acmicpc.net/problem/10610),
+    [2251](https://www.acmicpc.net/problem/1783),
+    [2186](https://www.acmicpc.net/problem/1931),
+    [3108](https://www.acmicpc.net/problem/11399),
+    [5014](https://www.acmicpc.net/problem/2873),
+    [1759](https://www.acmicpc.net/problem/1744),
+    [2580](https://www.acmicpc.net/problem/2873),
+    [1987](https://www.acmicpc.net/problem/1744),
+    [6603](https://www.acmicpc.net/problem/2875),
+    [1182](https://www.acmicpc.net/problem/10610),
+    [2003](https://www.acmicpc.net/problem/1783),
+    [1806](https://www.acmicpc.net/problem/1931),
+    [1644](https://www.acmicpc.net/problem/11399),
+    [1261](https://www.acmicpc.net/problem/2873),
+    [1208](https://www.acmicpc.net/problem/1744),
+    [7453](https://www.acmicpc.net/problem/1744),
+    [2632](https://www.acmicpc.net/problem/1744),
+    [2143](https://www.acmicpc.net/problem/1744)
+
 ## Useful Information
 ### Data Structure Operations Complexity
 
