@@ -87,7 +87,18 @@ a set of rules that precisely define a sequence of operations.
     * `B` [[백준] - 2609 최대공약수와 최소공배수](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2609.java)
     * `B` [[백준] - 2745 진법 변환](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2745.java)
     * `R` [[백준] - 9613 GCD 합](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_9613.java)
-     
+    * `R` [[백준] - 6588 골드바흐의 추측](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_6588.java)
+    * `R` [[백준] - 2089 -2진수](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2089.java)
+    * `R` [[백준] - 2004 조합 0의 개수](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2004.java)
+    * `B` [[백준] - 1978 소수 찾기](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1978.java)
+    * `R` [[백준] - 1929 소수 구하기](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1929.java)
+    * `B` [[백준] - 1676 팩토리얼 0의 개수](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1676.java)
+    * `R` [[백준] - 1212 8진수 2진수](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1212.java)
+    * `B` [[백준] - 11653 소인수분해](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11653.java)
+    * `R` [[백준] - 11576 Base Conversion](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11576.java)
+    * `B` [[백준] - 10872 팩토리얼](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10872.java)
+
+      
 * **Tree** -
     * `B` [[S/W 문제해결 기본] 9일차 - 트리구현](https://github.com/skylee273/Algorithm/tree/master/Tree)
     * `B` [[S/W 문제해결 기본] 9일차 - 중위순회 ★](https://github.com/skylee273/Algorithm/tree/master/SW1231)
@@ -202,6 +213,16 @@ algorithm is an abstraction higher than a computer program.
     * `B` [[백준] - 9461 파도반 수열](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_9461.java)
     * `R` [[백준] - 2579 계단 오르기](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2579.java)
     * `R` [[백준] - 2225 합분해](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2225.java)
+    * `R` [[백준] - 11052 카드 구매하기](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11052.java)
+    
+* **Graph** - DAn undirected graph is connected if every pair of vertices is connected by a path. A forest is an acyclic graph, and a tree is a connected acyclic graph. A graph that has weights associated with each edge is called a weighted graph. Graphs can be represented by their adjacency matrix or an edge (or vertex) list.
+    * `B` - Beginner, `I` - Intermediate, `A` - Advanced, `R` - Repect
+    * `R` [[백준] - 1260 DFS와 BFS](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1260.java)
+    * `B` [[백준] - 11724 연결 요소의 개수](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1260.java)
+    * `R` [[백준] - 1707 이분 그래프 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1707.java)
+    * `B` [[백준] - 10451 순열 사이클 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10451.java)
+    * `R` [[백준] - 2331 반복수열 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2331.java)
+
 
 ## Algorithm Problem Solving Strategies
 
