@@ -222,6 +222,14 @@ algorithm is an abstraction higher than a computer program.
     * `R` [[백준] - 1707 이분 그래프 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1707.java)
     * `B` [[백준] - 10451 순열 사이클 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10451.java)
     * `R` [[백준] - 2331 반복수열 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2331.java)
+    * `R` [[백준] - 11725 트리의 부모 찾기 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11725.java)
+    * `R` [[백준] - 1991 트리 순회 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1991.java)
+    * `R` [[백준] - 2146 다리 만들기 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2146.java)
+    * `B` [[백준] - 2178 미로 탐색 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2178.java)
+    * `B` [[백준] - 2667 단지번호붙이기 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2667.java)
+    * `B` [[백준] - 4963 섬의 개수 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_4963.java)
+    * `R` [[백준] - 7576 토마토 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_7576.java)
+   
 
 
 ## Algorithm Problem Solving Strategies
