@@ -232,7 +232,7 @@ algorithm is an abstraction higher than a computer program.
     * `R` [[백준] - 1167 트리의 지름 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1167.java)
     * `R` [[백준] - 1967 트리의 지름 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1967.java)
     * `R` [[백준] - 9466 텀 프로젝트 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_9466.java)
-    * `AR` [[백준] - 13460 구슬 탈출 2 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_13460.java)
+    * `AR` [[백준] - 13460 구슬 탈출 2 ](https://github.com/skylee273/java-algorithms/blob/master/Samsung/src/BackJoon_13460.java)
    
 
 
