@@ -229,6 +229,10 @@ algorithm is an abstraction higher than a computer program.
     * `B` [[백준] - 2667 단지번호붙이기 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2667.java)
     * `B` [[백준] - 4963 섬의 개수 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_4963.java)
     * `R` [[백준] - 7576 토마토 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_7576.java)
+    * `R` [[백준] - 1167 트리의 지름 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1167.java)
+    * `R` [[백준] - 1967 트리의 지름 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1967.java)
+    * `R` [[백준] - 9466 텀 프로젝트 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_9466.java)
+    * `AR` [[백준] - 13460 구슬 탈출 2 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_13460.java)
    
 
 
