@@ -114,14 +114,14 @@ a set of rules that precisely define a sequence of operations.
     * `B` [[S/W 문제해결 정렬 구현] - Quick, Selection, Bubble, Counting](https://github.com/skylee273/Algorithm/tree/master/Sort)
     * `B` [[백준] - 수 정렬하기 2](https://github.com/skylee273/Algorithm/tree/master/BackJoon_2715)
     * `B` [[프로그래머스] - K번째수](https://github.com/skylee273/Algorithm/tree/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_K%EB%B2%88%EC%A7%B8%EC%88%98_%EC%A0%95%EB%A0%AC_Lv1)
-    * `B` [[백준] - 2751 수 정렬하기 2(Java)](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2751.java)
+    * `R` [[백준] - 2751 수 정렬하기 2(Java)](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_2751.java)
     * `B` [[백준] - 11650 좌표 정렬하기](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11650.java)
     * `B` [[백준] - 11651 좌표 정렬하기 2](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11651.java)
     * `B` [[백준] - 10814 나이순 정렬](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10814.java)
     * `B` [[백준] - 10825 국영수 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10825.java)
-    * `B` [[백준] - 10989 수 정렬하기 3](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10989.java)
-    * `R` [[백준] - 11652 카드](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11652.java)
-    * `R` [[백준] - 11004 K번째 수](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11004.java)
+    * `R` [[백준] - 10989 수 정렬하기 3](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_10989.java)
+    * `RR` [[백준] - 11652 카드](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11652.java)
+    * `RR` [[백준] - 11004 K번째 수](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11004.java)
     * `B` [[백준] - 11656 접미사 배열](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1158.java)
 
 * **String** -
@@ -234,6 +234,13 @@ algorithm is an abstraction higher than a computer program.
     * `R` [[백준] - 9466 텀 프로젝트 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_9466.java)
     * `AR` [[백준] - 13460 구슬 탈출 2 ](https://github.com/skylee273/java-algorithms/blob/master/Samsung/src/BackJoon_13460.java)
    
+
+* **Divide conquer** - In computer science, divide and conquer is an algorithm design paradigm based on multi-branched recursion. A divide-and-conquer algorithm works by recursively breaking down a problem into two or more sub-problems of the same or related type, until these become simple enough to be solved directly. The solutions to the sub-problems are then combined to give a solution to the original problem.
+    * `B` - Beginner, `I` - Intermediate, `A` - Advanced, `R` - Repect
+    * `R` [[백준] - 1992 쿼드트리](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1992.java)
+    * `R` [[백준] - 1780 종이의 개수](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1780.java)
+    * `R` [[백준] - 11728 배열 합치기](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_11728.java)
+ 
 
 
 ## Algorithm Problem Solving Strategies
