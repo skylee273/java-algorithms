@@ -233,8 +233,13 @@ algorithm is an abstraction higher than a computer program.
     * `R` [[백준] - 1967 트리의 지름 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1967.java)
     * `R` [[백준] - 9466 텀 프로젝트 ](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_9466.java)
     * `AR` [[백준] - 13460 구슬 탈출 2 ](https://github.com/skylee273/java-algorithms/blob/master/Samsung/src/BackJoon_13460.java)
-   
-
+    * `B` [[백준] - 10026 적록색약 ](https://github.com/skylee273/java-algorithms/blob/master/Samsung/src/BackJoon_10026.java)
+    * `R` [[백준] - 1987 알파벳 ](https://github.com/skylee273/java-algorithms/blob/master/Samsung/src/BackJoon_1987.java)
+    * `R` [[백준] - 2206 벽 부수고 이동하기 ](https://github.com/skylee273/java-algorithms/blob/master/Samsung/src/BackJoon_2206.java)
+    * `B` [[백준] - 2644 촌수계산 ](https://github.com/skylee273/java-algorithms/blob/master/Samsung/src/BackJoon_2644.java)
+    * `R` [[백준] - 7569 토마토 ](https://github.com/skylee273/java-algorithms/blob/master/Samsung/src/BackJoon_7569.java)
+    
+    
 * **Divide conquer** - In computer science, divide and conquer is an algorithm design paradigm based on multi-branched recursion. A divide-and-conquer algorithm works by recursively breaking down a problem into two or more sub-problems of the same or related type, until these become simple enough to be solved directly. The solutions to the sub-problems are then combined to give a solution to the original problem.
     * `B` - Beginner, `I` - Intermediate, `A` - Advanced, `R` - Repect
     * `R` [[백준] - 1992 쿼드트리](https://github.com/skylee273/java-algorithms/blob/master/BackJoon/src/BackJoon_1992.java)
