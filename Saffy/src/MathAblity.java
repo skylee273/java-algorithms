@@ -188,13 +188,7 @@ public class MathAblity {
 		 MathLCD [] arr;
 		
 		
-		private int getCount() {
-			int lcd = lcd();
-			int sum = 0;
-			for(int i = 0; i < arr.length; ++i) {
-				sum += (lcd / arr[i].workTime);
-			}
-		}
+
 		 
 		private int gcd() {
 			int result;
