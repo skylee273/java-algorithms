@@ -1,0 +1,932 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Saffy"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "jdkpath": "C:\\Program Files\\openjdk-16-ea+24_windows-x64_bin\\jdk-16"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_1000<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_1000",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_10026<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_10026",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_1012<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_1012",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_10430<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_10430",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_10451<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_10451",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_1068<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_1068",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_10799<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_10799",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_10808<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_10808",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_10809<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_10809",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_10814<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_10814",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_10818<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_10818",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_10820<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_10820",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_10824<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_10824",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_10825<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_10825",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_10828<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_10828",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_10844<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_10844",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_10845<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_10845",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_10866<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_10866",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_10872<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_10872",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_10950<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_10950",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_10951<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_10951",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_10952<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_10952",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_10953<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_10953",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_10989<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_10989",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_10991<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_10991",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_10992<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_10992",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_11004<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_11004",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_11005<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_11005",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_11021<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_11021",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_11022<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_11022",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_11052<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_11052",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_11053<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_11053",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_11054<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_11054",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_11055<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_11055",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_11057<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_11057",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_11576<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_11576",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_1158<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_1158",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_11650<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_11650",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_11651<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_11651",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_11652<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_11652",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_11653<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_11653",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_11654<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_11654",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_11655<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_11655",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_11656<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_11656",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_1167<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_1167",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_1168<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_1168",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_11718<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_11718",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_11719<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_11719",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_11720<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_11720",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_11721<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_11721",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_11722<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_11722",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_11724<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_11724",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_11725<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_11725",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_11726<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_11726",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_11727<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_11727",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_11728<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_11728",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_1212<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_1212",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_1260<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_1260",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_1373<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_1373",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_1389<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_1389",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_1406<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_1406",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_14502<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_14502",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_1463<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_1463",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_1517<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_1517",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_16234<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_16234",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_1676<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_1676",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_1697<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_1697",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_1699<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_1699",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_1707<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_1707",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_1780<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_1780",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_1850<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_1850",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_1912<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_1912",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_1924<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_1924",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_1929<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_1929",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_1934<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_1934",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_1937<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_1937",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_1967<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_1967",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_1978<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_1978",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_1987<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_1987",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_1991<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_1991",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_1992<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_1992",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2004<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2004",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2089<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2089",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2133<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2133",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2146<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2146",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2156<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2156",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2178<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2178",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2193<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2193",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2206<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2206",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2225<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2225",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2331<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2331",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2438<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2438",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2439<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2439",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2440<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2440",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2441<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2441",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2442<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2442",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2445<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2445",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2468<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2468",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2557<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2557",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2573<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2573",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2579<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2579",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2583<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2583",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2589<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2589",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2606<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2606",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2609<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2609",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2644<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2644",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2667<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2667",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2739<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2739",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2741<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2741",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2742<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2742",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2743<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2743",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2745<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2745",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_2751<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_2751",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_3055<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_3055",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_4963<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_4963",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_5014<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_5014",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_6588<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_6588",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_7526<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_7526",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_7569<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_7569",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_7576<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_7576",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_8393<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_8393",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_9012<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_9012",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_9095<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_9095",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_9205<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_9205",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_9461<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_9461",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_9465<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_9465",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_9466<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_9466",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_9613<BackJoon>",
+            "request": "launch",
+            "mainClass": "BackJoon_9613",
+            "projectName": "BackJoon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MathAblity<Saffy>",
+            "request": "launch",
+            "mainClass": "MathAblity",
+            "projectName": "Saffy"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BackJoon_13460<Samsung>",
+            "request": "launch",
+            "mainClass": "BackJoon_13460",
+            "projectName": "Samsung"
+        }
+    ]
+}

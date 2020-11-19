@@ -1,0 +1,15 @@
+{
+    "java.home": "C:\\Program Files\\openjdk-16-ea+24_windows-x64_bin\\jdk-16",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "files.autoGuessEncoding": true,
+    "git.ignoreMissingGitWarning": true,
+    "java.debug.settings.exceptionBreakpoint.skipClasses": [],
+    
+}

@@ -16,7 +16,6 @@ public class BackJoon_1000 {
 		int B = Integer.parseInt(st.nextToken());
 		
 		int sum = A+B;
-		
 		System.out.print(sum);
 		
 		

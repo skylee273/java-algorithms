@@ -1,9 +1,8 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class MathAblity {
-
-	private static int DIV = 100;
+public class Main {
+    private static int DIV = 100;
 	private static int MILLION = 10000;
 	private static String NEW_LINE = "\n";
 	public static void main(String[] args) {
@@ -123,57 +122,58 @@ public class MathAblity {
 	private static class Question{
 		public void printTotalQuestion() {
 			StringBuilder sb = new StringBuilder();
-			sb.append("1.ÀÌÀ±ÀÇ ÃÑÇÕ ±¸ÇÏ±â ( ¿ø°¡, °³¼ö, ÀÌÀ±, ¼ö¼ö·á )").append(NEW_LINE);
-			sb.append("2.ÀÌÀ±ÀÇ ÃÑÇÕ ±¸ÇÏ±â ( ¿ø°¡, °³¼ö, ÀÌÀ± )").append(NEW_LINE);
-			sb.append("3.ÇÏÀÚ¹ß»ı½Ã ÀÌÀ± ±¸ÇÏ±â").append(NEW_LINE);
-			sb.append("4.ÃÖ´ë °¡´ÉÇÑ °³¼ö  ±¸ÇÏ±â").append(NEW_LINE);
-			sb.append("5.ºñÀ² * ÀÚ·á ±¸ÇÏ±â ").append(NEW_LINE);
-			sb.append("6.µÎ ÀÚ·á ºñ±³ ÇÏ±â (¸î¹è ÀÌ»ó) ").append(NEW_LINE);
-			sb.append("7.µÎ ÀÚ·á ºñ±³ÇÏ±â (¹«¾ù ÀÌ ´õ ¸¹ÀºÁö )").append(NEW_LINE);
-			sb.append("8.µÎ µ¥ÀÌÅÍ ºñÀ² ±¸ÇÏ±â ").append(NEW_LINE);
-			sb.append("9.ÀüÃ¼ µ¥ÀÌÅÍ ºñÀ² º¸±â").append(NEW_LINE);
-			sb.append("10.ÀüÃ¼ µ¥ÀÌÅÍ ºñÀ² (¼Ò¼öÁ¡ Ã¹Â° ÀÚ¸® ¹İ¿Ã¸²) ").append(NEW_LINE);
-			sb.append("11.Áõ°¡À² ºñ±³ÇÏ±â").append(NEW_LINE);
-			sb.append("12.Á÷»ç°¢Çü Ã¤¿ì±â ¹®Á¦ ").append(NEW_LINE);
-			sb.append("-1.Á¾·á").append(NEW_LINE);
+			
+			sb.append("1.ì´ìœ¤ì˜ ì´í•© êµ¬í•˜ê¸° ( ì›ê°€, ê°œìˆ˜, ì´ìœ¤, ìˆ˜ìˆ˜ë£Œ )").append(NEW_LINE);
+			sb.append("2.ì´ìœ¤ì˜ ì´í•© êµ¬í•˜ê¸° ( ì›ê°€, ê°œìˆ˜, ì´ìœ¤ )").append(NEW_LINE);
+			sb.append("3.í•˜ìë°œìƒì‹œ ì´ìœ¤ êµ¬í•˜ê¸°").append(NEW_LINE);
+			sb.append("4.ìµœëŒ€ ê°€ëŠ¥í•œ ê°œìˆ˜  êµ¬í•˜ê¸°").append(NEW_LINE);
+			sb.append("5.ë¹„ìœ¨ * ìë£Œ êµ¬í•˜ê¸° ").append(NEW_LINE);
+			sb.append("6.ë‘ ìë£Œ ë¹„êµ í•˜ê¸° (ëª‡ë°° ì´ìƒ) ").append(NEW_LINE);
+			sb.append("7.ë‘ ìë£Œ ë¹„êµí•˜ê¸° (ë¬´ì—‡ ì´ ë” ë§ì€ì§€ )").append(NEW_LINE);
+			sb.append("8.ë‘ ë°ì´í„° ë¹„ìœ¨ êµ¬í•˜ê¸° ").append(NEW_LINE);
+			sb.append("9.ì „ì²´ ë°ì´í„° ë¹„ìœ¨ ë³´ê¸°").append(NEW_LINE);
+			sb.append("10.ì „ì²´ ë°ì´í„° ë¹„ìœ¨ (ì†Œìˆ˜ì  ì²«ì§¸ ìë¦¬ ë°˜ì˜¬ë¦¼) ").append(NEW_LINE);
+			sb.append("11.ì¦ê°€ìœ¨ ë¹„êµí•˜ê¸°").append(NEW_LINE);
+			sb.append("12.ì§ì‚¬ê°í˜• ì±„ìš°ê¸° ë¬¸ì œ ").append(NEW_LINE);
+			sb.append("-1.ì¢…ë£Œ").append(NEW_LINE);
 			
 			System.out.print(sb);
 		}
 		public void printProfitOne() {
-			System.out.println("¿ø°¡, »óÇ°°³¼ö, ÀÌÀ±, ¼ö¼ö·á ÀÔ·Â");
+			System.out.println("ì›ê°€, ìƒí’ˆê°œìˆ˜, ì´ìœ¤, ìˆ˜ìˆ˜ë£Œ ì…ë ¥");
 		}
 		public void printProfitTwo() {
-			System.out.println("¿ø°¡, »óÇ°°³¼ö, ÀÌÀ±");
+			System.out.println("ì›ê°€, ìƒí’ˆê°œìˆ˜, ì´ìœ¤");
 		}
 		public void printProfitThree() {
-			System.out.println("¿ø°¡, »óÇ°°³¼ö, ÀÌÀ±, ¼ö¼ö·á, ºÒ·®Á¦Ç° ¼ö ");
+			System.out.println("ì›ê°€, ìƒí’ˆê°œìˆ˜, ì´ìœ¤, ìˆ˜ìˆ˜ë£Œ, ë¶ˆëŸ‰ì œí’ˆ ìˆ˜ ");
 		}
 		public void printMax() {
-			System.out.println("¹­À½ °³¼ö, ¹­À½ ±İ¾×, ³¹°³ ±İ¾×, ÃÖ´ë »ç¿ë °¡´É ±İ¾× ");
+			System.out.println("ë¬¶ìŒ ê°œìˆ˜, ë¬¶ìŒ ê¸ˆì•¡, ë‚±ê°œ ê¸ˆì•¡, ìµœëŒ€ ì‚¬ìš© ê°€ëŠ¥ ê¸ˆì•¡ ");
 		}
 		public void printData() {
-			System.out.println("µ¥ÀÌÅÍ °³¼ö, ºñÀ² ÀÔ·Â");
+			System.out.println("ë°ì´í„° ê°œìˆ˜, ë¹„ìœ¨ ì…ë ¥");
 		}
 		public void printDataTwo() {
-			System.out.println("µ¥ÀÌÅÍ °³¼ö, ºñÀ², ºñ±³ µ¥ÀÌÅÍ °³¼ö, ºñ±³ ºñÀ² ÀÔ·Â ");
+			System.out.println("ë°ì´í„° ê°œìˆ˜, ë¹„ìœ¨, ë¹„êµ ë°ì´í„° ê°œìˆ˜, ë¹„êµ ë¹„ìœ¨ ì…ë ¥ ");
 		}
 		public void printDataThree() {
-			System.out.println("µ¥ÀÌÅÍ °³¼ö, ºñÀ², ºñ±³ µ¥ÀÌÅÍ °³¼ö, ºñ±³ ºñÀ² ÀÔ·Â ");
+			System.out.println("ë°ì´í„° ê°œìˆ˜, ë¹„ìœ¨, ë¹„êµ ë°ì´í„° ê°œìˆ˜, ë¹„êµ ë¹„ìœ¨ ì…ë ¥ ");
 		}
 		public void printDataFour() {
-			System.out.println("ÀüÃ¼ µ¥ÀÌÅÍ, ºÎºĞ µ¥ÀÌÅÍ, ºñ±³ ÀüÃ¼ µ¥ÀÌÅÍ, ºñ±³ ºÎºĞ µ¥ÀÌÅÍ ");
+			System.out.println("ì „ì²´ ë°ì´í„°, ë¶€ë¶„ ë°ì´í„°, ë¹„êµ ì „ì²´ ë°ì´í„°, ë¹„êµ ë¶€ë¶„ ë°ì´í„° ");
 		}
 		public void printDataFive() {
-			System.out.println("ºñ±³ÇÏ°íÀÚ ÇÏ´Â ´ë»óÀÇ ¼ö ÀÔ·Â");
+			System.out.println("ë¹„êµí•˜ê³ ì í•˜ëŠ” ëŒ€ìƒì˜ ìˆ˜ ì…ë ¥");
 		}
 		public void printDataFive_One() {
-			System.out.println("ÀüÃ¼ µ¥ÀÌÅÍ, ºÎºĞ µ¥ÀÌÅÍ  ");
+			System.out.println("ì „ì²´ ë°ì´í„°, ë¶€ë¶„ ë°ì´í„°  ");
 		}
 		public void printDataSix() {
-			System.out.println("Àü³âµµ  °³¼ö, Çö ³âµµ °³¼ö, ºñ±³ µ¥ÀÌÅÍ Àü³âµµ °³¼ö, ºñ±³ µ¥ÀÌÅÍ Çö ³âµµ °³¼ö ");
+			System.out.println("ì „ë…„ë„  ê°œìˆ˜, í˜„ ë…„ë„ ê°œìˆ˜, ë¹„êµ ë°ì´í„° ì „ë…„ë„ ê°œìˆ˜, ë¹„êµ ë°ì´í„° í˜„ ë…„ë„ ê°œìˆ˜ ");
 		}
 		public void printDataSeven() {
-			System.out.println("Á÷»ç°¢Çü °¡·Î, Á÷»ç°¢Çü ¼¼·Î, Á¤»ç°¢Çü ±æÀÌ, °£°İ ±æÀÌ");
+			System.out.println("ì§ì‚¬ê°í˜• ê°€ë¡œ, ì§ì‚¬ê°í˜• ì„¸ë¡œ, ì •ì‚¬ê°í˜• ê¸¸ì´, ê°„ê²© ê¸¸ì´");
 		}
 		
 	}
@@ -187,9 +187,6 @@ public class MathAblity {
 	private static class Math{
 		 MathLCD [] arr;
 		
-		
-
-		 
 		private int gcd() {
 			int result;
 			if(arr.length <= 1) return arr[0].workTime;
@@ -231,7 +228,7 @@ public class MathAblity {
 		}
 		
 		public void printMaxCount() {
-			System.out.println("ÃÖ´ë °³¼ö´Â = " + getMaxCount());
+			System.out.println("ìµœëŒ€ ê°œìˆ˜ëŠ” = " + getMaxCount());
 		}
 	}
 	
@@ -267,14 +264,14 @@ public class MathAblity {
 		private String getPercentage() {
 			percentage = 100 * data / totalData;
 			percentage2 =100 *  data2 / totalCompareData;
-			return "Ã¹¹øÂ° µ¥ÀÌÅÍ ºñÀ² = " + percentage  + "%," + "µÎ¹øÂ° µ¥ÀÌÅÍ ºñÀ² = " + percentage2 + "%ÀÔ´Ï´Ù.";
+			return "ì²«ë²ˆì§¸ ë°ì´í„° ë¹„ìœ¨ = " + percentage  + "%," + "ë‘ë²ˆì§¸ ë°ì´í„° ë¹„ìœ¨ = " + percentage2 + "%ì…ë‹ˆë‹¤.";
 		}
 		
 		private String getIncrease() {
 			double increase = ((double)(data - totalData) / (double) totalData) * 100.0;
 			double compareIncrease = ((double)(data2 - totalCompareData) / (double)totalCompareData) * 100.0;
 			DecimalFormat decimalFormat = new DecimalFormat("##0.0");
-			return "Ã¹¹øÂ° µ¥ÀÌÅÍ Áõ°¡À² = " + decimalFormat.format(increase) + "%," + "µÎ¹øÂ° µ¥ÀÌÅÍ Áõ°¡À² = " + decimalFormat.format(compareIncrease) + "%ÀÔ´Ï´Ù.";
+			return "ì²«ë²ˆì§¸ ë°ì´í„° ì¦ê°€ìœ¨ = " + decimalFormat.format(increase) + "%," + "ë‘ë²ˆì§¸ ë°ì´í„° ì¦ê°€ìœ¨ = " + decimalFormat.format(compareIncrease) + "%ì…ë‹ˆë‹¤.";
 		}
 		private double getDataOne() {
 			return data * ( percentage / DIV);
@@ -297,25 +294,25 @@ public class MathAblity {
 		private void printCompare() {
 			switch (datCompare()) {
 			case 1: {
-				System.out.println("Ã¹ ¹øÂ° µ¥ÀÌÅÍ°¡ Å©´Ù.");
+				System.out.println("ì²« ë²ˆì§¸ ë°ì´í„°ê°€ í¬ë‹¤.");
 				break;
 			}
 			case 0: {
-				System.out.println("°°´Ù");
+				System.out.println("ê°™ë‹¤");
 				break;
 			}
 			case -1: {
-				System.out.println("µÎ ¹øÂ° µ¥ÀÌÅÍ°¡ Å©´Ù.");
+				System.out.println("ë‘ ë²ˆì§¸ ë°ì´í„°ê°€ í¬ë‹¤.");
 				break;
 			}
 			}
 		}
 		private void printMulti() {
-			System.out.println(String.format("Ã¹ ¹øÂ° ÀÚ·á °ªÀº = %f, µÎ¹øÂ° ÀÚ·á°ªÀº =%f \n"
-					+ "Ã¹¹øÂ° ÀÚ·á´Â µÎ¹øÂ° ÀÚ·á¿¡ %f¹èÀÌ´Ù.",getDataOne(), getDataTwo(), getMulti()));
+			System.out.println(String.format("ì²« ë²ˆì§¸ ìë£Œ ê°’ì€ = %f, ë‘ë²ˆì§¸ ìë£Œê°’ì€ =%f \n"
+					+ "ì²«ë²ˆì§¸ ìë£ŒëŠ” ë‘ë²ˆì§¸ ìë£Œì— %fë°°ì´ë‹¤.",getDataOne(), getDataTwo(), getMulti()));
 		}
 		private void printCount() {
-			System.out.println("Á¶°Ç¿¡ ¸¸Á·ÇÏ´Â °³¼ö´Â = " + getCount());
+			System.out.println("ì¡°ê±´ì— ë§Œì¡±í•˜ëŠ” ê°œìˆ˜ëŠ” = " + getCount());
 		}
 		private void printPercentage() {
 			System.out.println(getPercentage());
@@ -358,7 +355,7 @@ public class MathAblity {
 			return getPossiblePieceCnt() + getPossibleBundleCnt() * bundleCnt;
 		}
 		public void printGetMax() {
-			System.out.println("°¡´ÉÇÑ ÃÖ´ë ±¸¸Å °³¼ö = " + String.format("%d", getMaxCnt()));
+			System.out.println("ê°€ëŠ¥í•œ ìµœëŒ€ êµ¬ë§¤ ê°œìˆ˜ = " + String.format("%d", getMaxCnt()));
 		}
 	}
 	
@@ -386,13 +383,13 @@ public class MathAblity {
 		}
 		
 		public void printSum2() {
-			System.out.println("ÃÑ ¼öÀÍ±İ = " + String.format("%.2f", getSum()));
+			System.out.println("ì´ ìˆ˜ìµê¸ˆ = " + String.format("%.2f", getSum()));
 		}
 		public void printSum() {
-			System.out.println("ÃÑ ¼öÀÍ±İ = " + String.format("%.2f", sumIncome()));
+			System.out.println("ì´ ìˆ˜ìµê¸ˆ = " + String.format("%.2f", sumIncome()));
 		}
 		public void printProfit() {
-			System.out.println("ÀÌÀ± = " + String.format("%.2f", getProfit()));
+			System.out.println("ì´ìœ¤ = " + String.format("%.2f", getProfit()));
 		}
 		
 	}
